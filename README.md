@@ -4,14 +4,14 @@
 - 💵 Economista
 - 📊 Foco principal em Excel, Python, PowerBI e QGIS.
 
-## 📫 Conecte-se comigo:
+## ☎️ Conecte-se comigo:
 
 <div>
   <a href="https://www.linkedin.com/in/rafaelporfiriobarros/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:rafaporfirio.barros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <div\>
 
-## 🧰 Minhas Habilidades:
+## 💻 Minhas Habilidades:
 
 ### Linguagens e ferramentas
 
