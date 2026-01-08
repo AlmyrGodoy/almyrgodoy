@@ -2,6 +2,7 @@
 
 - 🌾 Mestrando em Agronegócios
 - 💵 Economista
+- 👨‍💻 Analista de Dados
 - 📊 Foco principal em Excel, Python, PowerBI e QGIS.
 
 ## ☎️ Conecte-se comigo:
