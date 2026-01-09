@@ -1,4 +1,4 @@
-## Oi! Meu nome é Almyr Godoy e este é meu repositório de Dados!
+## Meu nome é Almyr Godoy e este é meu repositório de Dados!
 
 - 🌾 Mestrando em Agronegócios
 - 💵 Economista
