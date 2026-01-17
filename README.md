@@ -1,4 +1,6 @@
-## Meu nome é Almyr Godoy e este é meu repositório de Dados!
+# Almyr Godoy
+
+**`Analista de Dados`**
 
 - 🌾 Mestrando em Agronegócios
 - 💵 Economista
