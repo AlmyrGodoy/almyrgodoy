@@ -4,7 +4,7 @@
 
 - 🌾 Mestrando em Agronegócios
 - 💵 Economista
-- 👨‍💻 Analista de Dados
+- 👨‍💻 Analista e Cientista de Dados
 - 📊 SQL, Python, PowerBI e Looker.
 
 ## ☎️ Conecte-se comigo:
